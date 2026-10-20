@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080f,50:0d1b2a,100:ff6a00&height=190&section=header&text=AhiPy&fontSize=54&fontColor=00f0ff&desc=Vinicius%20Henrique%20Ferreira&descSize=18&descAlignY=60&descColor=ffb300" alt="AhiPy" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080f,50:0d1b2a,100:ff6a00&height=190&section=header&text=AhiPy&fontSize=54&fontColor=00f0ff&descAlignY=60" alt="AhiPy" width="100%">
 
 **Segurança da Informação · SOC Nível 1 · Redes · Python**
 
@@ -12,7 +12,7 @@
 
 ```console
 root@ahipy:~$ whoami
-vinicius ferreira — 2,5 anos em suporte técnico e redes,
+2,5 anos em suporte técnico e redes,
 transição estruturada para cibersegurança.
 ```
 
