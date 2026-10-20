@@ -1,27 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ecae6,50:f4f1de,100:2d6a4f&height=190&section=header&text=AhiPy&fontSize=54&fontColor=1b4332&desc=Vinicius%20Henrique%20Ferreira&descSize=18&descAlignY=60&descColor=344e41" alt="AhiPy" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080f,50:0d1b2a,100:ff6a00&height=190&section=header&text=AhiPy&fontSize=54&fontColor=00f0ff&desc=Vinicius%20Henrique%20Ferreira&descSize=18&descAlignY=60&descColor=ffb300" alt="AhiPy" width="100%">
 
 **Segurança da Informação · SOC Nível 1 · Redes · Python**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=2d6a4f&center=true&vCenter=true&width=620&lines=Triagem+de+alertas+no+SOC;Análise+de+tráfego+e+logs;Automação+com+Python;Pequenos+passos+ainda+são+passos" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=00f0ff&center=true&vCenter=true&width=620&lines=Triagem+de+alertas+no+SOC;Análise+de+tráfego+e+logs;Automação+com+Python;Pequenos+passos+ainda+são+passos" alt="Typing SVG" />
 
 </div>
 
-## 🌱 Sobre mim
+## `whoami`
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="26" height="26">
-  <g fill="#2b2b2b">
-    <circle cx="32" cy="34" r="16"/>
-    <path d="M32 12l3 6h-6zM18 18l5 4-7 1zM46 18l-5 4 7 1zM12 32l6 1v-5zM52 32l-6 1v-5zM18 48l4-4-1-6zM46 48l-4-4 1-6zM32 54l3-5h-6z"/>
-  </g>
-  <circle cx="26" cy="31" r="6.5" fill="#fff"/>
-  <circle cx="38" cy="31" r="6.5" fill="#fff"/>
-  <circle cx="27.5" cy="32" r="2.8" fill="#111"/>
-  <circle cx="36.5" cy="32" r="2.8" fill="#111"/>
-</svg>
-
-Profissional de TI com **2,5 anos de experiência em suporte técnico e redes**, em transição estruturada para cibersegurança.
+```console
+root@ahipy:~$ whoami
+vinicius ferreira — 2,5 anos em suporte técnico e redes,
+transição estruturada para cibersegurança.
+```
 
 Foco em **SOC Nível 1**, prática hands-on em laboratórios e **Python** para automação.
 
@@ -29,89 +22,81 @@ Busco oportunidade júnior em **SOC / Segurança da Informação**, em regime **
 
 > *"Pequenos passos ainda são passos."*
 
-## 🌳 Skills & Tecnologias
+> *"Vi coisas que vocês não acreditariam..."* — Blade Runner
+
+## `./skills`
 
 **Segurança & SOC**
 
-![Splunk](https://img.shields.io/badge/Splunk-2d6a4f?style=for-the-badge&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-2d6a4f?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-2d6a4f?style=for-the-badge&logo=wireshark&logoColor=white)
-![tcpdump](https://img.shields.io/badge/tcpdump-2d6a4f?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-2d6a4f?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-2d6a4f?style=for-the-badge&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2d6a4f?style=for-the-badge&logo=metasploit&logoColor=white)
-![Netcat](https://img.shields.io/badge/Netcat-2d6a4f?style=for-the-badge)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-2d6a4f?style=for-the-badge&logo=openssl&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-0d1117?style=for-the-badge&logo=splunk&logoColor=00f0ff)
+![Wazuh](https://img.shields.io/badge/Wazuh-0d1117?style=for-the-badge&logoColor=00f0ff)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00f0ff)
+![tcpdump](https://img.shields.io/badge/tcpdump-0d1117?style=for-the-badge&logoColor=00f0ff)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logoColor=00f0ff)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0d1117?style=for-the-badge&logo=portswigger&logoColor=00f0ff)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=00f0ff)
+![Netcat](https://img.shields.io/badge/Netcat-0d1117?style=for-the-badge&logoColor=00f0ff)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-0d1117?style=for-the-badge&logo=openssl&logoColor=00f0ff)
 
 **Redes**
 
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-40916c?style=for-the-badge)
-![DNS](https://img.shields.io/badge/DNS-40916c?style=for-the-badge)
-![Roteamento](https://img.shields.io/badge/Roteamento-40916c?style=for-the-badge)
-![Firewalls / NGFW](https://img.shields.io/badge/Firewalls%20%2F%20NGFW-40916c?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-161b22?style=for-the-badge&logoColor=ff7300)
+![DNS](https://img.shields.io/badge/DNS-161b22?style=for-the-badge&logoColor=ff7300)
+![Roteamento](https://img.shields.io/badge/Roteamento-161b22?style=for-the-badge&logoColor=ff7300)
+![Firewalls / NGFW](https://img.shields.io/badge/Firewalls%20%2F%20NGFW-161b22?style=for-the-badge&logoColor=ff7300)
 
 **Programação**
 
-![Python](https://img.shields.io/badge/Python-52b788?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-52b788?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-52b788?style=for-the-badge&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-52b788?style=for-the-badge&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-52b788?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffb300)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logoColor=ffb300)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=ffb300)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ffb300)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=ffb300)
 
 **Sistemas & Ferramentas**
 
-![Linux](https://img.shields.io/badge/Linux-344e41?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-344e41?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-344e41?style=for-the-badge&logo=github&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-344e41?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=c9d1d9)
+![Git](https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=c9d1d9)
+![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9)
+![SSH](https://img.shields.io/badge/SSH-161b22?style=for-the-badge&logoColor=c9d1d9)
 
 **IA aplicada**
 
-![Claude Code](https://img.shields.io/badge/Claude%20Code-2d6a4f?style=for-the-badge&logo=claude&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude%20API-2d6a4f?style=for-the-badge&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-2d6a4f?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-0d1117?style=for-the-badge&logo=claude&logoColor=ff2e88)
+![Claude API](https://img.shields.io/badge/Claude%20API-0d1117?style=for-the-badge&logo=anthropic&logoColor=ff2e88)
+![MCP](https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=ff2e88)
 
-## 🛤️ Foco atual
+## `./foco`
 
 | SOC N1 | Splunk | Wazuh | Wireshark | Redes | Python |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | Triagem e análise de alertas | Consultas e visualizações | Estudo ativo da plataforma | Análise de tráfego com tcpdump | TCP/IP, DNS, roteamento e NGFW | Automação e projetos |
 
-> *"A raiz é a parte mais dura."* — Princesa Mononoke
-
-## ⚒️ Experiência profissional
-
-**Assistente de Suporte de TI** — NewParce · *ago/2022 – dez/2024*
-
-- Diagnóstico de problemas de rede para clientes residenciais e corporativos, envolvendo TCP/IP, DNS e roteamento.
-- Configuração e hardening básico de mais de 1.000 roteadores TP-Link e Nokia, além de instalação de fibra óptica e cabeamento estruturado.
-- Ajustes de DNS, abertura controlada de portas e otimização de latência para resolução de falhas de conectividade.
-- Atuação em rotina de suporte técnico, resolução de incidentes de conectividade e controle de equipamentos.
-
-## 🎓 Formação & Certificações
+## `./formacao`
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — UNIASSELVI · abr/2022 – dez/2025 · concluído
 
 **Certificações e cursos**
 
-![Google](https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-40916c?style=flat-square&logo=google&logoColor=white) via Coursera · 8/8 cursos
-<br>
-![Fortinet](https://img.shields.io/badge/Fortinet%20Training%20Institute-40916c?style=flat-square&logo=fortinet&logoColor=white) Introduction to NGFW 1.0 · Cybersecurity and Cloud Fundamentals 1.0
-<br>
-![Splunk](https://img.shields.io/badge/Splunk%20Education-40916c?style=flat-square&logo=splunk&logoColor=white) Intro to Splunk · Using Fields · Working with Time · Visualizations · Scheduling Reports & Alerts
+- **Google Cybersecurity Certificate** — Coursera · 8/8 cursos
+- **Conceitos Básicos de Redes (Networking Basics)** — Cisco Networking Academy · 10/2026
+- **Introdução à Cibersegurança** — Cisco Networking Academy · 09/2026
+- **Fortinet Training Institute** — Introduction to Next Generation Firewall 1.0 · Cybersecurity and Cloud Fundamentals 1.0
+- **Splunk Education (eLearning)** — Intro to Splunk · Using Fields · Working with Time · Visualizations · Scheduling Reports & Alerts
+- **Inglês** — Fluência · aprox. 300 h · 07/2026
 
 **Formação complementar:** Mapa do Arquiteto *(em conclusão)*
 
-## ⚔️ Prática hands-on
+## `./hands-on`
 
-![OverTheWire](https://img.shields.io/badge/OverTheWire%20Bandit-níveis%200--33-2d6a4f?style=for-the-badge)
-![PortSwigger](https://img.shields.io/badge/PortSwigger%20Web%20Security%20Academy-2d6a4f?style=for-the-badge&logo=portswigger&logoColor=white)
-![picoCTF](https://img.shields.io/badge/picoCTF-2d6a4f?style=for-the-badge)
-![VulnHub](https://img.shields.io/badge/VulnHub-2d6a4f?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-2d6a4f?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Splunk Enterprise](https://img.shields.io/badge/Splunk%20Enterprise%20(local)-2d6a4f?style=for-the-badge&logo=splunk&logoColor=white)
+![OverTheWire](https://img.shields.io/badge/OverTheWire%20Bandit-níveis%200--33-0d1117?style=for-the-badge&logoColor=00f0ff)
+![PortSwigger](https://img.shields.io/badge/PortSwigger%20Web%20Security%20Academy-0d1117?style=for-the-badge&logo=portswigger&logoColor=00f0ff)
+![picoCTF](https://img.shields.io/badge/picoCTF-0d1117?style=for-the-badge&logoColor=00f0ff)
+![VulnHub](https://img.shields.io/badge/VulnHub-0d1117?style=for-the-badge&logoColor=00f0ff)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00f0ff)
+![Splunk Enterprise](https://img.shields.io/badge/Splunk%20Enterprise%20(local)-0d1117?style=for-the-badge&logo=splunk&logoColor=00f0ff)
 
-## 📦 Projetos em destaque
+## `./projetos`
 
 | Projeto | Descrição | Stack |
 | :-- | :-- | :-- |
@@ -120,47 +105,51 @@ Busco oportunidade júnior em **SOC / Segurança da Informação**, em regime **
 | **auth-system** | Projeto em Python de sistema de autenticação | Python · OOP · Repository Pattern · SQLite |
 | **mcp-document-chat** | Servidor e cliente MCP com documentos locais | MCP · Documentos locais |
 
-## 📊 No caminho
+## `./telemetria`
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AhiPy&show_icons=true&hide_border=true&bg_color=fffdf5&title_color=2d6a4f&icon_color=52b788&text_color=344e41&ring_color=40916c&include_all_commits=true" width="420" alt="Stats de AhiPy"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhiPy&layout=compact&hide_border=true&bg_color=fffdf5&title_color=2d6a4f&text_color=344e41" width="300" alt="Linguagens de AhiPy"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AhiPy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ffb300&text_color=c9d1d9&ring_color=ff7300&include_all_commits=true" width="420" alt="Stats de AhiPy"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhiPy&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" width="300" alt="Linguagens de AhiPy"></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhiPy&background=fffdf5&border=95d5b2&ring=2d6a4f&fire=e9c46a&currStreakNum=344e41&sideNums=344e41&currStreakLabel=2d6a4f&sideLabels=588157&dates=8b9a82" alt="Streak de AhiPy">
+  <img src="https://streak-stats.demolab.com?user=AhiPy&background=0d1117&border=ff7300&ring=00f0ff&fire=ff2e88&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00f0ff&sideLabels=ffb300&dates=8b94a8" alt="Streak de AhiPy">
 </p>
 
-## ✉️ Contato
+## `./contato`
 
-[![GitHub](https://img.shields.io/badge/GitHub-AhiPy-2d6a4f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhiPy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinicius--henrique--dev-40916c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-henrique-dev/)
-[![E-mail](https://img.shields.io/badge/E--mail-Contato-52b788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius2001_henrique@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AhiPy-0d1117?style=for-the-badge&logo=github&logoColor=00f0ff)](https://github.com/AhiPy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinicius--henrique--dev-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffb300)](https://www.linkedin.com/in/vinicius-henrique-dev/)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-0d1117?style=for-the-badge&logo=gmail&logoColor=ff2e88)](mailto:vinicius2001_henrique@hotmail.com)
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 70" width="100%" height="56" role="img" aria-label="Trem sobre a água">
-  <rect x="0" y="52" width="600" height="3" rx="1.5" fill="#8ecae6" opacity="0.7"/>
-  <path d="M0 60 Q 75 54 150 60 T 300 60 T 450 60 T 600 60" stroke="#8ecae6" fill="none" stroke-width="3" opacity="0.5"/>
-  <g>
-    <rect x="230" y="30" width="140" height="20" rx="5" fill="#2d6a4f"/>
-    <rect x="240" y="35" width="14" height="10" rx="2" fill="#f4f1de"/>
-    <rect x="262" y="35" width="14" height="10" rx="2" fill="#f4f1de"/>
-    <rect x="284" y="35" width="14" height="10" rx="2" fill="#f4f1de"/>
-    <rect x="306" y="35" width="14" height="10" rx="2" fill="#f4f1de"/>
-    <rect x="328" y="35" width="14" height="10" rx="2" fill="#f4f1de"/>
-    <rect x="350" y="35" width="12" height="10" rx="2" fill="#e9c46a"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 90" width="100%" height="64" role="img" aria-label="Los Angeles 2049">
+  <defs>
+    <linearGradient id="haze" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#05080f"/>
+      <stop offset="0.55" stop-color="#0d1b2a"/>
+      <stop offset="1" stop-color="#ff6a00"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="600" height="90" fill="url(#haze)"/>
+  <g stroke="#00f0ff" stroke-width="1.2" opacity="0.45">
+    <line x1="40" y1="4" x2="34" y2="44"/>
+    <line x1="120" y1="0" x2="113" y2="52"/>
+    <line x1="210" y1="8" x2="204" y2="48"/>
+    <line x1="330" y1="2" x2="323" y2="56"/>
+    <line x1="420" y1="6" x2="414" y2="46"/>
+    <line x1="510" y1="0" x2="503" y2="54"/>
+    <line x1="560" y1="10" x2="555" y2="42"/>
   </g>
-  <circle cx="120" cy="18" r="9" fill="#fffdf5" opacity="0.9"/>
-  <circle cx="134" cy="20" r="7" fill="#fffdf5" opacity="0.9"/>
-  <circle cx="470" cy="14" r="8" fill="#fffdf5" opacity="0.9"/>
-  <circle cx="484" cy="17" r="6" fill="#fffdf5" opacity="0.9"/>
+  <rect x="0" y="74" width="600" height="1.5" fill="#ff6a00" opacity="0.8"/>
+  <text x="300" y="70" text-anchor="middle" font-family="monospace" font-size="13" letter-spacing="6" fill="#00f0ff">AhiPy // 2049</text>
 </svg>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ecae6,50:f4f1de,100:2d6a4f&height=90&section=footer" alt="" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080f,50:0d1b2a,100:ff6a00&height=90&section=footer" alt="" width="100%">
 
-*Vamos só viver.* 🍃
+*Pequenos passos ainda são passos.* ⚡
 
 </div>
