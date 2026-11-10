@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
+  <title id="t">Vinicius Henrique (AhiPy)</title>
+  <desc id="d">Analista de Segurança da Informação Júnior, com foco em SOC N1, redes, Linux e Python.</desc>
+  <style>
+    .m { font-family: 'Cascadia Code','SF Mono',Consolas,'DejaVu Sans Mono',Menlo,monospace; }
+    .k { font-size: 15px; fill: #6e7a8c; }
+    .v { font-size: 15px; fill: #d6dde8; }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b12"/>
+      <stop offset="0.65" stop-color="#0d1420"/>
+      <stop offset="1" stop-color="#1a1510"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#00e5ff" stroke-opacity="0.045"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <rect x="48" y="58" width="4" height="120" fill="#00e5ff"/>
+  <text x="72" y="82" class="m" font-size="16" letter-spacing="3" fill="#00e5ff">AHIPY // SECURITY OPERATIONS</text>
+  <text x="72" y="134" class="m" font-size="46" font-weight="700" fill="#f2f5f9">Vinicius Henrique</text>
+  <text x="72" y="174" class="m" font-size="21" fill="#aab4c3">Analista de Segurança da Informação Jr.</text>
+  <text x="72" y="214" class="m" font-size="15" fill="#6e7a8c">SOC N1  /  Redes  /  Linux  /  Python</text>
+
+  <rect x="712" y="44" width="440" height="192" rx="8" fill="#0a0f18" fill-opacity="0.9" stroke="#27313f"/>
+  <circle cx="742" cy="72" r="5" fill="#2bd576"/>
+  <text x="758" y="77" class="m" font-size="14" fill="#2bd576">disponível para vagas</text>
+  <line x1="712" y1="92" x2="1152" y2="92" stroke="#27313f"/>
+  <text x="736" y="116" class="m k">role</text><text x="848" y="116" class="m v">SOC Analyst N1</text><text x="736" y="139" class="m k">focus</text><text x="848" y="139" class="m v">detecção · triagem · resposta</text><text x="736" y="162" class="m k">siem</text><text x="848" y="162" class="m v">Splunk (SPL) · KQL</text><text x="736" y="185" class="m k">traffic</text><text x="848" y="185" class="m v">Wireshark · tcpdump</text><text x="736" y="208" class="m k">automation</text><text x="848" y="208" class="m v">Python · Linux</text>
+
+  <path d="M48 294v-10h6v10zM58 294v-7h6v7zM68 294v-13h6v13zM78 294v-12h6v12zM88 294v-14h6v14zM98 294v-16h6v16zM108 294v-13h6v13zM118 294v-16h6v16zM128 294v-18h6v18zM138 294v-19h6v19zM148 294v-20h6v20zM158 294v-16h6v16zM168 294v-19h6v19zM178 294v-18h6v18zM188 294v-16h6v16zM198 294v-21h6v21zM208 294v-14h6v14zM218 294v-15h6v15zM228 294v-12h6v12zM238 294v-15h6v15zM248 294v-13h6v13zM258 294v-14h6v14zM268 294v-10h6v10zM278 294v-7h6v7zM288 294v-9h6v9zM298 294v-16h6v16zM308 294v-17h6v17zM318 294v-13h6v13zM328 294v-15h6v15zM338 294v-21h6v21zM348 294v-14h6v14zM358 294v-22h6v22zM368 294v-16h6v16zM378 294v-19h6v19zM388 294v-18h6v18zM398 294v-19h6v19zM408 294v-16h6v16zM418 294v-21h6v21zM428 294v-12h6v12zM438 294v-16h6v16zM448 294v-19h6v19zM458 294v-12h6v12zM468 294v-14h6v14zM478 294v-11h6v11zM488 294v-13h6v13zM498 294v-10h6v10zM508 294v-16h6v16zM518 294v-13h6v13zM528 294v-15h6v15zM538 294v-13h6v13zM548 294v-13h6v13zM558 294v-14h6v14zM568 294v-15h6v15zM578 294v-15h6v15zM588 294v-15h6v15zM598 294v-15h6v15zM608 294v-20h6v20zM618 294v-19h6v19zM628 294v-18h6v18zM638 294v-15h6v15zM648 294v-17h6v17zM658 294v-18h6v18zM668 294v-12h6v12zM678 294v-14h6v14zM688 294v-10h6v10zM698 294v-8h6v8zM708 294v-12h6v12zM718 294v-12h6v12zM728 294v-16h6v16zM738 294v-10h6v10zM748 294v-11h6v11zM758 294v-11h6v11zM768 294v-20h6v20zM778 294v-20h6v20zM788 294v-20h6v20zM798 294v-15h6v15zM878 294v-19h6v19zM888 294v-11h6v11zM898 294v-11h6v11zM908 294v-8h6v8zM918 294v-15h6v15zM928 294v-13h6v13zM938 294v-7h6v7zM948 294v-15h6v15zM958 294v-10h6v10zM968 294v-12h6v12zM978 294v-19h6v19zM988 294v-16h6v16zM998 294v-16h6v16zM1008 294v-18h6v18zM1018 294v-21h6v21zM1028 294v-21h6v21zM1038 294v-22h6v22zM1048 294v-17h6v17zM1058 294v-16h6v16zM1068 294v-16h6v16zM1078 294v-19h6v19zM1088 294v-17h6v17zM1098 294v-11h6v11zM1108 294v-16h6v16zM1118 294v-10h6v10zM1128 294v-15h6v15zM1138 294v-6h6v6z" fill="#00e5ff" fill-opacity="0.26"/>
+  <path d="M808 294v-22h6v22zM818 294v-31h6v31zM828 294v-40h6v40zM838 294v-46h6v46zM848 294v-36h6v36zM858 294v-27h6v27zM868 294v-19h6v19z" fill="#ff7a1a" fill-opacity="0.9"/>
+  <rect x="48" y="294" width="1104" height="1" fill="#27313f"/>
+</svg>
