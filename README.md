@@ -16,15 +16,8 @@ Profissional de TI com mais de 2 anos em suporte técnico e redes em provedor de
 
 Busco minha **primeira posição em SOC N1 ou Segurança da Informação**.
 
-```console
-analyst@ahipy:~$ ./perfil --resumo
-cargo-alvo     Analista SOC N1 / Segurança da Informação Jr.
-experiência    Suporte de TI e redes em provedor de internet (08/2022 a 12/2024)
-formação       Tecnólogo em Análise e Desenvolvimento de Sistemas, UNIASSELVI
-certificados   Google Cybersecurity, KC7 Security Analyst I, Cisco, Fortinet, Splunk
-idiomas        Português nativo, inglês intermediário
-modalidade     Remoto, híbrido ou presencial, com disponibilidade para mudança
-```
+<img src="assets/terminal.svg" width="100%" alt="Resumo do perfil. Cargo-alvo: Analista SOC N1 ou Segurança da Informação Jr. Experiência: suporte de TI e redes em provedor de internet, de 08/2022 a 12/2024. Formação: Tecnólogo em Análise e Desenvolvimento de Sistemas, UNIASSELVI. Certificados: Google Cybersecurity, KC7 Security Analyst I, Cisco, Fortinet e Splunk. Idiomas: português nativo e inglês intermediário. Modalidade: remoto, híbrido ou presencial, com disponibilidade para mudança.">
+
 
 ## `$ cat experiencia.log`
 

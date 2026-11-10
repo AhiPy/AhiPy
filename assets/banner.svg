@@ -1,37 +1,83 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
-  <title id="t">Vinicius Henrique (AhiPy)</title>
-  <desc id="d">Analista de Segurança da Informação Júnior, com foco em SOC N1, redes, Linux e Python.</desc>
-  <style>
-    .m { font-family: 'Cascadia Code','SF Mono',Consolas,'DejaVu Sans Mono',Menlo,monospace; }
-    .k { font-size: 15px; fill: #6e7a8c; }
-    .v { font-size: 15px; fill: #d6dde8; }
-  </style>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#070b12"/>
-      <stop offset="0.65" stop-color="#0d1420"/>
-      <stop offset="1" stop-color="#1a1510"/>
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#00e5ff" stroke-opacity="0.045"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="320" fill="url(#bg)"/>
-  <rect width="1200" height="320" fill="url(#grid)"/>
-
-  <rect x="48" y="58" width="4" height="120" fill="#00e5ff"/>
-  <text x="72" y="82" class="m" font-size="16" letter-spacing="3" fill="#00e5ff">AHIPY // SECURITY OPERATIONS</text>
-  <text x="72" y="134" class="m" font-size="46" font-weight="700" fill="#f2f5f9">Vinicius Henrique</text>
-  <text x="72" y="174" class="m" font-size="21" fill="#aab4c3">Analista de Segurança da Informação Jr.</text>
-  <text x="72" y="214" class="m" font-size="15" fill="#6e7a8c">SOC N1  /  Redes  /  Linux  /  Python</text>
-
-  <rect x="712" y="44" width="440" height="192" rx="8" fill="#0a0f18" fill-opacity="0.9" stroke="#27313f"/>
-  <circle cx="742" cy="72" r="5" fill="#2bd576"/>
-  <text x="758" y="77" class="m" font-size="14" fill="#2bd576">disponível para vagas</text>
-  <line x1="712" y1="92" x2="1152" y2="92" stroke="#27313f"/>
-  <text x="736" y="116" class="m k">role</text><text x="848" y="116" class="m v">SOC Analyst N1</text><text x="736" y="139" class="m k">focus</text><text x="848" y="139" class="m v">detecção · triagem · resposta</text><text x="736" y="162" class="m k">siem</text><text x="848" y="162" class="m v">Splunk (SPL) · KQL</text><text x="736" y="185" class="m k">traffic</text><text x="848" y="185" class="m v">Wireshark · tcpdump</text><text x="736" y="208" class="m k">automation</text><text x="848" y="208" class="m v">Python · Linux</text>
-
-  <path d="M48 294v-10h6v10zM58 294v-7h6v7zM68 294v-13h6v13zM78 294v-12h6v12zM88 294v-14h6v14zM98 294v-16h6v16zM108 294v-13h6v13zM118 294v-16h6v16zM128 294v-18h6v18zM138 294v-19h6v19zM148 294v-20h6v20zM158 294v-16h6v16zM168 294v-19h6v19zM178 294v-18h6v18zM188 294v-16h6v16zM198 294v-21h6v21zM208 294v-14h6v14zM218 294v-15h6v15zM228 294v-12h6v12zM238 294v-15h6v15zM248 294v-13h6v13zM258 294v-14h6v14zM268 294v-10h6v10zM278 294v-7h6v7zM288 294v-9h6v9zM298 294v-16h6v16zM308 294v-17h6v17zM318 294v-13h6v13zM328 294v-15h6v15zM338 294v-21h6v21zM348 294v-14h6v14zM358 294v-22h6v22zM368 294v-16h6v16zM378 294v-19h6v19zM388 294v-18h6v18zM398 294v-19h6v19zM408 294v-16h6v16zM418 294v-21h6v21zM428 294v-12h6v12zM438 294v-16h6v16zM448 294v-19h6v19zM458 294v-12h6v12zM468 294v-14h6v14zM478 294v-11h6v11zM488 294v-13h6v13zM498 294v-10h6v10zM508 294v-16h6v16zM518 294v-13h6v13zM528 294v-15h6v15zM538 294v-13h6v13zM548 294v-13h6v13zM558 294v-14h6v14zM568 294v-15h6v15zM578 294v-15h6v15zM588 294v-15h6v15zM598 294v-15h6v15zM608 294v-20h6v20zM618 294v-19h6v19zM628 294v-18h6v18zM638 294v-15h6v15zM648 294v-17h6v17zM658 294v-18h6v18zM668 294v-12h6v12zM678 294v-14h6v14zM688 294v-10h6v10zM698 294v-8h6v8zM708 294v-12h6v12zM718 294v-12h6v12zM728 294v-16h6v16zM738 294v-10h6v10zM748 294v-11h6v11zM758 294v-11h6v11zM768 294v-20h6v20zM778 294v-20h6v20zM788 294v-20h6v20zM798 294v-15h6v15zM878 294v-19h6v19zM888 294v-11h6v11zM898 294v-11h6v11zM908 294v-8h6v8zM918 294v-15h6v15zM928 294v-13h6v13zM938 294v-7h6v7zM948 294v-15h6v15zM958 294v-10h6v10zM968 294v-12h6v12zM978 294v-19h6v19zM988 294v-16h6v16zM998 294v-16h6v16zM1008 294v-18h6v18zM1018 294v-21h6v21zM1028 294v-21h6v21zM1038 294v-22h6v22zM1048 294v-17h6v17zM1058 294v-16h6v16zM1068 294v-16h6v16zM1078 294v-19h6v19zM1088 294v-17h6v17zM1098 294v-11h6v11zM1108 294v-16h6v16zM1118 294v-10h6v10zM1128 294v-15h6v15zM1138 294v-6h6v6z" fill="#00e5ff" fill-opacity="0.26"/>
-  <path d="M808 294v-22h6v22zM818 294v-31h6v31zM828 294v-40h6v40zM838 294v-46h6v46zM848 294v-36h6v36zM858 294v-27h6v27zM868 294v-19h6v19z" fill="#ff7a1a" fill-opacity="0.9"/>
-  <rect x="48" y="294" width="1104" height="1" fill="#27313f"/>
+<title id="t">Vinicius Henrique (AhiPy)</title>
+<desc id="d">Analista de Segurança da Informação Júnior, com foco em SOC N1, redes, Linux e Python.</desc>
+<style>
+.m{font-family:'Cascadia Code','SF Mono',Consolas,'DejaVu Sans Mono',Menlo,monospace}
+.k{font-size:15px;fill:#6e7a8c}
+.v{font-size:15px;fill:#d6dde8}
+.eb{font-size:16px;fill:#00e5ff}
+.b{fill:#00e5ff;fill-opacity:.26;transform-box:fill-box;transform-origin:bottom;animation:wave 4.5s ease-in-out infinite}
+@keyframes wave{0%,100%{transform:scaleY(1)}50%{transform:scaleY(.55)}}
+.s{fill:#ff7a1a;transform-box:fill-box;transform-origin:bottom;animation:spike 9s linear infinite}
+@keyframes spike{0%,69%{transform:scaleY(.12);fill:#00e5ff;fill-opacity:.26}73%,93%{transform:scaleY(1);fill:#ff7a1a;fill-opacity:.95}100%{transform:scaleY(.12);fill:#00e5ff;fill-opacity:.26}}
+.tag{font-size:12px;fill:#ff7a1a;letter-spacing:1px;animation:tag 9s linear infinite}
+@keyframes tag{0%,71%{opacity:0}74%,92%{opacity:1}96%,100%{opacity:0}}
+.scan{animation:scan 9s linear infinite}
+@keyframes scan{from{transform:translateX(0)}to{transform:translateX(1104px)}}
+.ring{fill:none;stroke:#2bd576;stroke-width:1.5;transform-box:fill-box;transform-origin:center;animation:ring 2.2s ease-out infinite}
+@keyframes ring{from{transform:scale(1);opacity:.8}to{transform:scale(3);opacity:0}}
+.blink{animation:blink 1.1s steps(2,jump-none) infinite}
+@keyframes blink{from{opacity:1}to{opacity:0}}
+.c{animation:ec 14s linear infinite}
+.eend{animation:eend 14s linear infinite}
+@keyframes e0{0%,21.43%{opacity:1}21.63%,24.29%{opacity:0}24.36%,100%{opacity:1}}
+@keyframes e1{0%,21.43%{opacity:1}21.63%,24.64%{opacity:0}24.71%,100%{opacity:1}}
+@keyframes e2{0%,21.43%{opacity:1}21.63%,25.00%{opacity:0}25.07%,100%{opacity:1}}
+@keyframes e3{0%,21.43%{opacity:1}21.63%,25.36%{opacity:0}25.43%,100%{opacity:1}}
+@keyframes e4{0%,21.43%{opacity:1}21.63%,25.71%{opacity:0}25.79%,100%{opacity:1}}
+@keyframes e6{0%,21.43%{opacity:1}21.63%,26.43%{opacity:0}26.50%,100%{opacity:1}}
+@keyframes e7{0%,21.43%{opacity:1}21.63%,26.79%{opacity:0}26.86%,100%{opacity:1}}
+@keyframes e9{0%,21.43%{opacity:1}21.63%,27.50%{opacity:0}27.57%,100%{opacity:1}}
+@keyframes e10{0%,21.43%{opacity:1}21.63%,27.86%{opacity:0}27.93%,100%{opacity:1}}
+@keyframes e11{0%,21.43%{opacity:1}21.63%,28.21%{opacity:0}28.29%,100%{opacity:1}}
+@keyframes e12{0%,21.43%{opacity:1}21.63%,28.57%{opacity:0}28.64%,100%{opacity:1}}
+@keyframes e13{0%,21.43%{opacity:1}21.63%,28.93%{opacity:0}29.00%,100%{opacity:1}}
+@keyframes e14{0%,21.43%{opacity:1}21.63%,29.29%{opacity:0}29.36%,100%{opacity:1}}
+@keyframes e15{0%,21.43%{opacity:1}21.63%,29.64%{opacity:0}29.71%,100%{opacity:1}}
+@keyframes e16{0%,21.43%{opacity:1}21.63%,30.00%{opacity:0}30.07%,100%{opacity:1}}
+@keyframes e18{0%,21.43%{opacity:1}21.63%,30.71%{opacity:0}30.79%,100%{opacity:1}}
+@keyframes e19{0%,21.43%{opacity:1}21.63%,31.07%{opacity:0}31.14%,100%{opacity:1}}
+@keyframes e20{0%,21.43%{opacity:1}21.63%,31.43%{opacity:0}31.50%,100%{opacity:1}}
+@keyframes e21{0%,21.43%{opacity:1}21.63%,31.79%{opacity:0}31.86%,100%{opacity:1}}
+@keyframes e22{0%,21.43%{opacity:1}21.63%,32.14%{opacity:0}32.21%,100%{opacity:1}}
+@keyframes e23{0%,21.43%{opacity:1}21.63%,32.50%{opacity:0}32.57%,100%{opacity:1}}
+@keyframes e24{0%,21.43%{opacity:1}21.63%,32.86%{opacity:0}32.93%,100%{opacity:1}}
+@keyframes e25{0%,21.43%{opacity:1}21.63%,33.21%{opacity:0}33.29%,100%{opacity:1}}
+@keyframes e26{0%,21.43%{opacity:1}21.63%,33.57%{opacity:0}33.64%,100%{opacity:1}}
+@keyframes e27{0%,21.43%{opacity:1}21.63%,33.93%{opacity:0}34.00%,100%{opacity:1}}
+@keyframes ec{0%,21.43%{transform:translateX(0);opacity:0}21.63%{transform:translateX(0);opacity:1}24.29%{transform:translateX(0);opacity:1;animation-timing-function:steps(28,end)}34.29%{transform:translateX(352.8px);opacity:1}34.59%,100%{transform:translateX(352.8px);opacity:0}}
+@keyframes eend{0%,21.43%{opacity:1}21.63%,34.29%{opacity:0}34.36%,100%{opacity:1}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.c{display:none}}
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#070b12"/><stop offset="0.65" stop-color="#0d1420"/><stop offset="1" stop-color="#1a1510"/>
+</linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#00e5ff" stop-opacity="0"/><stop offset="1" stop-color="#00e5ff" stop-opacity=".85"/>
+</linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+<path d="M32 0H0V32" fill="none" stroke="#00e5ff" stroke-opacity="0.045"/>
+</pattern>
+</defs>
+<rect width="1200" height="320" fill="url(#bg)"/>
+<rect width="1200" height="320" fill="url(#grid)"/>
+<rect x="48" y="58" width="4" height="120" fill="#00e5ff"/>
+<text x="72.0" y="82" class="m eb" style="animation:e0 14s linear infinite">A</text><text x="84.6" y="82" class="m eb" style="animation:e1 14s linear infinite">H</text><text x="97.2" y="82" class="m eb" style="animation:e2 14s linear infinite">I</text><text x="109.8" y="82" class="m eb" style="animation:e3 14s linear infinite">P</text><text x="122.4" y="82" class="m eb" style="animation:e4 14s linear infinite">Y</text><text x="147.6" y="82" class="m eb" style="animation:e6 14s linear infinite">/</text><text x="160.2" y="82" class="m eb" style="animation:e7 14s linear infinite">/</text><text x="185.4" y="82" class="m eb" style="animation:e9 14s linear infinite">S</text><text x="198.0" y="82" class="m eb" style="animation:e10 14s linear infinite">E</text><text x="210.6" y="82" class="m eb" style="animation:e11 14s linear infinite">C</text><text x="223.2" y="82" class="m eb" style="animation:e12 14s linear infinite">U</text><text x="235.8" y="82" class="m eb" style="animation:e13 14s linear infinite">R</text><text x="248.4" y="82" class="m eb" style="animation:e14 14s linear infinite">I</text><text x="261.0" y="82" class="m eb" style="animation:e15 14s linear infinite">T</text><text x="273.6" y="82" class="m eb" style="animation:e16 14s linear infinite">Y</text><text x="298.8" y="82" class="m eb" style="animation:e18 14s linear infinite">O</text><text x="311.4" y="82" class="m eb" style="animation:e19 14s linear infinite">P</text><text x="324.0" y="82" class="m eb" style="animation:e20 14s linear infinite">E</text><text x="336.6" y="82" class="m eb" style="animation:e21 14s linear infinite">R</text><text x="349.2" y="82" class="m eb" style="animation:e22 14s linear infinite">A</text><text x="361.8" y="82" class="m eb" style="animation:e23 14s linear infinite">T</text><text x="374.4" y="82" class="m eb" style="animation:e24 14s linear infinite">I</text><text x="387.0" y="82" class="m eb" style="animation:e25 14s linear infinite">O</text><text x="399.6" y="82" class="m eb" style="animation:e26 14s linear infinite">N</text><text x="412.2" y="82" class="m eb" style="animation:e27 14s linear infinite">S</text>
+<rect class="c" x="72" y="68" width="10" height="17" fill="#00e5ff"/>
+<g class="eend"><rect class="blink" x="424.8" y="68" width="10" height="17" fill="#00e5ff"/></g>
+<text x="72" y="134" class="m" font-size="46" font-weight="700" fill="#f2f5f9">Vinicius Henrique</text>
+<text x="72" y="174" class="m" font-size="21" fill="#aab4c3">Analista de Segurança da Informação Jr.</text>
+<text x="72" y="214" class="m" font-size="15" fill="#6e7a8c">SOC N1  /  Redes  /  Linux  /  Python</text>
+<rect x="712" y="44" width="440" height="192" rx="8" fill="#0a0f18" fill-opacity="0.9" stroke="#27313f"/>
+<circle class="ring" cx="742" cy="72" r="5"/>
+<circle cx="742" cy="72" r="5" fill="#2bd576"/>
+<text x="758" y="77" class="m" font-size="14" fill="#2bd576">disponível para vagas</text>
+<line x1="712" y1="92" x2="1152" y2="92" stroke="#27313f"/>
+<g><text x="736" y="116" class="m k">role</text><text x="848" y="116" class="m v">SOC Analyst N1</text></g><g><text x="736" y="139" class="m k">focus</text><text x="848" y="139" class="m v">detecção · triagem · resposta</text></g><g><text x="736" y="162" class="m k">siem</text><text x="848" y="162" class="m v">Splunk (SPL) · KQL</text></g><g><text x="736" y="185" class="m k">traffic</text><text x="848" y="185" class="m v">Wireshark · tcpdump</text></g><g><text x="736" y="208" class="m k">automation</text><text x="848" y="208" class="m v">Python · Linux</text></g>
+<rect class="b" x="48" y="284" width="6" height="10" style="animation-delay:-0.00s"/><rect class="b" x="58" y="287" width="6" height="7" style="animation-delay:-4.41s"/><rect class="b" x="68" y="281" width="6" height="13" style="animation-delay:-4.32s"/><rect class="b" x="78" y="282" width="6" height="12" style="animation-delay:-4.23s"/><rect class="b" x="88" y="280" width="6" height="14" style="animation-delay:-4.14s"/><rect class="b" x="98" y="278" width="6" height="16" style="animation-delay:-4.05s"/><rect class="b" x="108" y="281" width="6" height="13" style="animation-delay:-3.96s"/><rect class="b" x="118" y="278" width="6" height="16" style="animation-delay:-3.87s"/><rect class="b" x="128" y="276" width="6" height="18" style="animation-delay:-3.78s"/><rect class="b" x="138" y="275" width="6" height="19" style="animation-delay:-3.69s"/><rect class="b" x="148" y="274" width="6" height="20" style="animation-delay:-3.60s"/><rect class="b" x="158" y="278" width="6" height="16" style="animation-delay:-3.51s"/><rect class="b" x="168" y="275" width="6" height="19" style="animation-delay:-3.42s"/><rect class="b" x="178" y="276" width="6" height="18" style="animation-delay:-3.33s"/><rect class="b" x="188" y="278" width="6" height="16" style="animation-delay:-3.24s"/><rect class="b" x="198" y="273" width="6" height="21" style="animation-delay:-3.15s"/><rect class="b" x="208" y="280" width="6" height="14" style="animation-delay:-3.06s"/><rect class="b" x="218" y="279" width="6" height="15" style="animation-delay:-2.97s"/><rect class="b" x="228" y="282" width="6" height="12" style="animation-delay:-2.88s"/><rect class="b" x="238" y="279" width="6" height="15" style="animation-delay:-2.79s"/><rect class="b" x="248" y="281" width="6" height="13" style="animation-delay:-2.70s"/><rect class="b" x="258" y="280" width="6" height="14" style="animation-delay:-2.61s"/><rect class="b" x="268" y="284" width="6" height="10" style="animation-delay:-2.52s"/><rect class="b" x="278" y="287" width="6" height="7" style="animation-delay:-2.43s"/><rect class="b" x="288" y="285" width="6" height="9" style="animation-delay:-2.34s"/><rect class="b" x="298" y="278" width="6" height="16" style="animation-delay:-2.25s"/><rect class="b" x="308" y="277" width="6" height="17" style="animation-delay:-2.16s"/><rect class="b" x="318" y="281" width="6" height="13" style="animation-delay:-2.07s"/><rect class="b" x="328" y="279" width="6" height="15" style="animation-delay:-1.98s"/><rect class="b" x="338" y="273" width="6" height="21" style="animation-delay:-1.89s"/><rect class="b" x="348" y="280" width="6" height="14" style="animation-delay:-1.80s"/><rect class="b" x="358" y="272" width="6" height="22" style="animation-delay:-1.71s"/><rect class="b" x="368" y="278" width="6" height="16" style="animation-delay:-1.62s"/><rect class="b" x="378" y="275" width="6" height="19" style="animation-delay:-1.53s"/><rect class="b" x="388" y="276" width="6" height="18" style="animation-delay:-1.44s"/><rect class="b" x="398" y="275" width="6" height="19" style="animation-delay:-1.35s"/><rect class="b" x="408" y="278" width="6" height="16" style="animation-delay:-1.26s"/><rect class="b" x="418" y="273" width="6" height="21" style="animation-delay:-1.17s"/><rect class="b" x="428" y="282" width="6" height="12" style="animation-delay:-1.08s"/><rect class="b" x="438" y="278" width="6" height="16" style="animation-delay:-0.99s"/><rect class="b" x="448" y="275" width="6" height="19" style="animation-delay:-0.90s"/><rect class="b" x="458" y="282" width="6" height="12" style="animation-delay:-0.81s"/><rect class="b" x="468" y="280" width="6" height="14" style="animation-delay:-0.72s"/><rect class="b" x="478" y="283" width="6" height="11" style="animation-delay:-0.63s"/><rect class="b" x="488" y="281" width="6" height="13" style="animation-delay:-0.54s"/><rect class="b" x="498" y="284" width="6" height="10" style="animation-delay:-0.45s"/><rect class="b" x="508" y="278" width="6" height="16" style="animation-delay:-0.36s"/><rect class="b" x="518" y="281" width="6" height="13" style="animation-delay:-0.27s"/><rect class="b" x="528" y="279" width="6" height="15" style="animation-delay:-0.18s"/><rect class="b" x="538" y="281" width="6" height="13" style="animation-delay:-0.09s"/><rect class="b" x="548" y="281" width="6" height="13" style="animation-delay:-0.00s"/><rect class="b" x="558" y="280" width="6" height="14" style="animation-delay:-4.41s"/><rect class="b" x="568" y="279" width="6" height="15" style="animation-delay:-4.32s"/><rect class="b" x="578" y="279" width="6" height="15" style="animation-delay:-4.23s"/><rect class="b" x="588" y="279" width="6" height="15" style="animation-delay:-4.14s"/><rect class="b" x="598" y="279" width="6" height="15" style="animation-delay:-4.05s"/><rect class="b" x="608" y="274" width="6" height="20" style="animation-delay:-3.96s"/><rect class="b" x="618" y="275" width="6" height="19" style="animation-delay:-3.87s"/><rect class="b" x="628" y="276" width="6" height="18" style="animation-delay:-3.78s"/><rect class="b" x="638" y="279" width="6" height="15" style="animation-delay:-3.69s"/><rect class="b" x="648" y="277" width="6" height="17" style="animation-delay:-3.60s"/><rect class="b" x="658" y="276" width="6" height="18" style="animation-delay:-3.51s"/><rect class="b" x="668" y="282" width="6" height="12" style="animation-delay:-3.42s"/><rect class="b" x="678" y="280" width="6" height="14" style="animation-delay:-3.33s"/><rect class="b" x="688" y="284" width="6" height="10" style="animation-delay:-3.24s"/><rect class="b" x="698" y="286" width="6" height="8" style="animation-delay:-3.15s"/><rect class="b" x="708" y="282" width="6" height="12" style="animation-delay:-3.06s"/><rect class="b" x="718" y="282" width="6" height="12" style="animation-delay:-2.97s"/><rect class="b" x="728" y="278" width="6" height="16" style="animation-delay:-2.88s"/><rect class="b" x="738" y="284" width="6" height="10" style="animation-delay:-2.79s"/><rect class="b" x="748" y="283" width="6" height="11" style="animation-delay:-2.70s"/><rect class="b" x="758" y="283" width="6" height="11" style="animation-delay:-2.61s"/><rect class="b" x="768" y="274" width="6" height="20" style="animation-delay:-2.52s"/><rect class="b" x="778" y="274" width="6" height="20" style="animation-delay:-2.43s"/><rect class="b" x="788" y="274" width="6" height="20" style="animation-delay:-2.34s"/><rect class="b" x="798" y="279" width="6" height="15" style="animation-delay:-2.25s"/><rect class="b" x="878" y="279" width="6" height="15" style="animation-delay:-1.53s"/><rect class="b" x="888" y="276" width="6" height="18" style="animation-delay:-1.44s"/><rect class="b" x="898" y="279" width="6" height="15" style="animation-delay:-1.35s"/><rect class="b" x="908" y="279" width="6" height="15" style="animation-delay:-1.26s"/><rect class="b" x="918" y="283" width="6" height="11" style="animation-delay:-1.17s"/><rect class="b" x="928" y="282" width="6" height="12" style="animation-delay:-1.08s"/><rect class="b" x="938" y="284" width="6" height="10" style="animation-delay:-0.99s"/><rect class="b" x="948" y="278" width="6" height="16" style="animation-delay:-0.90s"/><rect class="b" x="958" y="284" width="6" height="10" style="animation-delay:-0.81s"/><rect class="b" x="968" y="282" width="6" height="12" style="animation-delay:-0.72s"/><rect class="b" x="978" y="282" width="6" height="12" style="animation-delay:-0.63s"/><rect class="b" x="988" y="274" width="6" height="20" style="animation-delay:-0.54s"/><rect class="b" x="998" y="273" width="6" height="21" style="animation-delay:-0.45s"/><rect class="b" x="1008" y="280" width="6" height="14" style="animation-delay:-0.36s"/><rect class="b" x="1018" y="272" width="6" height="22" style="animation-delay:-0.27s"/><rect class="b" x="1028" y="279" width="6" height="15" style="animation-delay:-0.18s"/><rect class="b" x="1038" y="278" width="6" height="16" style="animation-delay:-0.09s"/><rect class="b" x="1048" y="272" width="6" height="22" style="animation-delay:-0.00s"/><rect class="b" x="1058" y="277" width="6" height="17" style="animation-delay:-4.41s"/><rect class="b" x="1068" y="277" width="6" height="17" style="animation-delay:-4.32s"/><rect class="b" x="1078" y="276" width="6" height="18" style="animation-delay:-4.23s"/><rect class="b" x="1088" y="275" width="6" height="19" style="animation-delay:-4.14s"/><rect class="b" x="1098" y="277" width="6" height="17" style="animation-delay:-4.05s"/><rect class="b" x="1108" y="276" width="6" height="18" style="animation-delay:-3.96s"/><rect class="b" x="1118" y="283" width="6" height="11" style="animation-delay:-3.87s"/><rect class="b" x="1128" y="284" width="6" height="10" style="animation-delay:-3.78s"/><rect class="b" x="1138" y="285" width="6" height="9" style="animation-delay:-3.69s"/>
+<rect class="s" x="808" y="272" width="6" height="22"/><rect class="s" x="818" y="263" width="6" height="31"/><rect class="s" x="828" y="254" width="6" height="40"/><rect class="s" x="838" y="248" width="6" height="46"/><rect class="s" x="848" y="258" width="6" height="36"/><rect class="s" x="858" y="267" width="6" height="27"/><rect class="s" x="868" y="275" width="6" height="19"/>
+<text class="m tag" x="798" y="262" text-anchor="end">ANOMALIA DETECTADA</text>
+<rect x="48" y="294" width="1104" height="1" fill="#27313f"/>
+<rect class="scan" x="47" y="240" width="2" height="54" fill="url(#beam)"/>
 </svg>
