@@ -62,16 +62,16 @@ flowchart LR
 | Projeto | O que fiz | O que demonstra |
 | :-- | :-- | :-- |
 | **[GuardiAI](https://github.com/AhiPy/dio-agent-guardiai)** | Agente de IA para análise de vulnerabilidades e AppSec, com matriz de severidade e validação da correção. Projeto final do Bootcamp Santander | Análise de risco, CWE, OWASP, MITRE ATT&CK, IA aplicada |
-| **Força bruta em laboratório** | Medusa e Hydra contra FTP, login do DVWA e SMB (Kali × Metasploitable2), em rede isolada no VirtualBox, com passo a passo e mitigações | Visão do ataque e da defesa: bloqueio por tentativas, MFA, política de senhas |
-| **Simulação de malware em Python** | Estudo controlado de ransomware (criptografia com Fernet) e de captura de dados | Como esses ataques funcionam e como são detectados e prevenidos |
+| **[Força bruta em laboratório](https://github.com/AhiPy/brute-force-kali-medusa-)** | Medusa e Hydra contra FTP, login do DVWA e SMB (Kali × Metasploitable2), em rede isolada no VirtualBox, com passo a passo e mitigações | Visão do ataque e da defesa: bloqueio por tentativas, MFA, política de senhas |
+| **[Simulação de malware em Python](https://github.com/AhiPy/laboratorio-ransomware-python)** | Estudo controlado de ransomware (criptografia com Fernet) e de captura de dados | Como esses ataques funcionam e como são detectados e prevenidos |
 
 **Desenvolvimento**
 
 | Projeto | Descrição | Stack |
 | :-- | :-- | :-- |
-| **[auth-system](https://github.com/AhiPy/auth-system)** | CLI de autenticação com hash de senhas | Python, OOP, Repository Pattern, SQLite |
-| **[stock-manager](https://github.com/AhiPy/stock-manager)** | CLI de gestão de estoque | Python, OOP, Repository Pattern, SQLite |
-| **[personal-library](https://github.com/AhiPy/personal-library)** | CLI de biblioteca pessoal | Python, OOP, Repository Pattern, SQLite |
+| **auth-system** | CLI de autenticação com hash de senhas | Python, OOP, Repository Pattern, SQLite |
+| **stock-manager** | CLI de gestão de estoque | Python, OOP, Repository Pattern, SQLite |
+| **personal-library** | CLI de biblioteca pessoal | Python, OOP, Repository Pattern, SQLite |
 | **[mcp-document-chat](https://github.com/AhiPy/mcp-document-chat)** | Servidor e cliente MCP com documentos locais | MCP |
 
 > Todos os testes ofensivos foram feitos em ambiente próprio e isolado ou em plataformas autorizadas. O objetivo é entender o ataque para saber detectar e mitigar.
